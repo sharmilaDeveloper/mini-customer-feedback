@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+  font-family: "Arial", sans-serif;
+}
+
+
+.heading{
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap:40px
+}
